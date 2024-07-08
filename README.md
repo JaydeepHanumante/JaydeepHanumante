@@ -17,11 +17,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - Excel
 - SQL
-- Python
-- Tableau
 - Power BI
 - DAX
 - Power Query
+- Tableau
+- Python
 
 ## Courses
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
