@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - 🌱 I’m currently working as a **Data Analyst.**
 
-- 📫 How to reach me -    **[LinkedIn](www.linkedin.com/in/jaydeep-hanumante)**,  **:mailbox_with_no_mail: jaydeep.dh1@gmail.com**
+- 📫 How to reach me -    **[LinkedIn](www.linkedin.com/in/jaydeep-hanumante/)**,  **:mailbox_with_no_mail: jaydeep.dh1@gmail.com**
 
 ## 🚀 Languages and Tools:
 
