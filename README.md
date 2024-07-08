@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - DAX
 - Power Query
 
-## Certificates
+## Courses
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
 - [Data Analytics](https://drive.google.com/file/d/1ofkZsiaY4hzTdIKCg4MowUIiiaDpVGum/view)
 - [CISCO - Data Analytics Essentials](https://drive.google.com/file/d/18hpi5TiolqCHChqRccvEaOVGZh2QGBTw/view)
