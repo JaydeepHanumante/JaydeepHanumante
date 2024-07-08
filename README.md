@@ -13,15 +13,17 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - 📫 How to reach me -    **[LinkedIn](https://www.linkedin.com/in/jaydeep-hanumante/)**,  **:mailbox_with_no_mail: jaydeep.dh1@gmail.com**
 
-## 🚀 Languages and Tools:
+## 🚀 Skills & Tools:
 
-- Excel
-- SQL
-- Power BI
-- DAX
-- Power Query
-- Tableau
-- Python
+- Microsoft Office Suite : Excel, Word, PowerPoint
+- Programming languages : SQL, Python
+- Visualization tools : Tableau, Power BI
+- Data Transformation : Power Query, DAX
+- Data Analysis
+- Project Management
+- Requirement Gathering
+- Business Process Improvement
+- Strong Interpersonal Skills
 
 ## Courses
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have:
