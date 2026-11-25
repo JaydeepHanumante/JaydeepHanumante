@@ -89,23 +89,98 @@ September 2019 – May 2024
 - Built SQL-based analytical datasets and reporting workflows.
 - Automated recurring reports and business performance tracking.
 - Managed and mentored analysts.
+## 🚀 Featured Projects
 
-## 📊 Portfolio Projects — Roadmap
+A collection of completed end-to-end projects demonstrating my
+expertise in Data Analytics, Business Intelligence, Financial
+Analytics, Data Engineering and Microsoft Fabric.
 
-| Project | Technologies |
-|---|---|
-| FP&A Financial Performance Analytics | SQL, Power BI, DAX |
-| Employee Utilization Optimization | SQL, Power BI |
-| Microsoft Fabric Data Platform | Fabric, PySpark, OneLake |
-| Loan Portfolio & Credit Risk Analytics | SQL, Python, Power BI |
-| Fabric Pipeline Automation | Fabric, Data Factory |
-| Accounts Receivable & WIP Analytics | SQL, Power BI, DAX |
-| Collections & Repayment Analytics | SQL, Python, Power BI |
-| Data Quality & Governance Framework | SQL, Python, Fabric |
+### 01. FP&A Financial Performance Analytics
 
-Project repositories will include business case studies,
-synthetic datasets, architecture diagrams, source code,
-dashboards and documentation.
+Financial analytics solution covering revenue, gross margin,
+realization, profitability and variance analysis.
+
+**Tech Stack:** SQL Server, Power BI, DAX, Excel
+
+[View Project](https://github.com/JaydeepHanumante/fpa-financial-performance-analytics)
+
+---
+
+### 02. Employee Utilization Optimization
+
+Workforce analytics solution covering employee utilization,
+chargeability, productivity and resource capacity planning.
+
+**Tech Stack:** SQL, Power BI, DAX, ETL
+
+[View Project](https://github.com/JaydeepHanumante/employee-utilization-analytics)
+
+---
+
+### 03. Microsoft Fabric Data Platform
+
+End-to-end data platform covering data ingestion, lakehouse,
+data transformation and semantic modeling.
+
+**Tech Stack:** Microsoft Fabric, OneLake, PySpark, Delta Lake
+
+[View Project](https://github.com/JaydeepHanumante/microsoft-fabric-data-platform)
+
+---
+
+### 04. Loan Portfolio & Credit Risk Analytics
+
+Comprehensive lending analytics solution covering portfolio
+health, credit risk, delinquency and customer segmentation.
+
+**Tech Stack:** SQL, Python, Power BI, Tableau
+
+[View Project](https://github.com/JaydeepHanumante/loan-portfolio-credit-risk-analytics)
+
+---
+
+### 05. Fabric Pipeline Automation
+
+Automated data engineering workflows covering pipeline
+orchestration, incremental loading, monitoring and error handling.
+
+**Tech Stack:** Microsoft Fabric, Data Factory, Dataflows Gen2
+
+[View Project](https://github.com/JaydeepHanumante/fabric-pipeline-automation)
+
+---
+
+### 06. Accounts Receivable & WIP Analytics
+
+Financial reporting solution covering AR aging, WIP balances,
+write-offs, cash collections and working capital.
+
+**Tech Stack:** SQL Server, Power BI, DAX
+
+[View Project](https://github.com/JaydeepHanumante/accounts-receivable-wip-analytics)
+
+---
+
+### 07. Collections & Repayment Analytics
+
+Digital lending analytics covering collection efficiency,
+repayment trends, bounce rates and overdue customers.
+
+**Tech Stack:** SQL, Python, Power BI
+
+[View Project](https://github.com/JaydeepHanumante/collections-repayment-analytics)
+
+---
+
+### 08. Data Quality & Governance Framework
+
+Data quality framework covering validation, reconciliation,
+duplicate detection, completeness and governance.
+
+**Tech Stack:** SQL, Python, Microsoft Fabric, Power BI
+
+[View Project](https://github.com/JaydeepHanumante/data-quality-governance-framework)
+
 
 ## 🎯 Areas of Expertise
 
