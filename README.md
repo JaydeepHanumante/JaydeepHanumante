@@ -92,16 +92,16 @@ September 2019 – May 2024
 
 ## 📊 Portfolio Projects — Roadmap
 
-| Project | Technologies | Status |
-|---|---|---|
-| FP&A Financial Performance Analytics | SQL, Power BI, DAX | Planned |
-| Employee Utilization Optimization | SQL, Power BI | Planned |
-| Microsoft Fabric Data Platform | Fabric, PySpark, OneLake | Planned |
-| Loan Portfolio & Credit Risk Analytics | SQL, Python, Power BI | Planned |
-| Fabric Pipeline Automation | Fabric, Data Factory | Planned |
-| Accounts Receivable & WIP Analytics | SQL, Power BI, DAX | Planned |
-| Collections & Repayment Analytics | SQL, Python, Power BI | Planned |
-| Data Quality & Governance Framework | SQL, Python, Fabric | Planned |
+| Project | Technologies |
+|---|---|
+| FP&A Financial Performance Analytics | SQL, Power BI, DAX |
+| Employee Utilization Optimization | SQL, Power BI |
+| Microsoft Fabric Data Platform | Fabric, PySpark, OneLake |
+| Loan Portfolio & Credit Risk Analytics | SQL, Python, Power BI |
+| Fabric Pipeline Automation | Fabric, Data Factory |
+| Accounts Receivable & WIP Analytics | SQL, Power BI, DAX |
+| Collections & Repayment Analytics | SQL, Python, Power BI |
+| Data Quality & Governance Framework | SQL, Python, Fabric |
 
 Project repositories will include business case studies,
 synthetic datasets, architecture diagrams, source code,
